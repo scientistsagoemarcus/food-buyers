@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads:18.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Android/gradle-6.5/caches/transforms-2/files-2.1/af58a3926c8f96e08335ad188f16c26d/jetified-play-services-ads-18.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android/gradle-6.5/caches/transforms-2/files-2.1/af58a3926c8f96e08335ad188f16c26d/jetified-play-services-ads-18.3.0/res" />
+      <root url="file://$USER_HOME$/Android/gradle-6.5/caches/transforms-2/files-2.1/af58a3926c8f96e08335ad188f16c26d/jetified-play-services-ads-18.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Android/gradle-6.5/caches/transforms-2/files-2.1/94bd3de5e8ca1ec78ec329cdb1ee556b/jetified-play-services-ads-18.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android/gradle-6.5/caches/transforms-2/files-2.1/94bd3de5e8ca1ec78ec329cdb1ee556b/jetified-play-services-ads-18.3.0/res" />
+      <root url="file://$USER_HOME$/Android/gradle-6.5/caches/transforms-2/files-2.1/94bd3de5e8ca1ec78ec329cdb1ee556b/jetified-play-services-ads-18.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c9e6a893c6a520233aa521cb23fae54/jetified-play-services-ads-18.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c9e6a893c6a520233aa521cb23fae54/jetified-play-services-ads-18.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c9e6a893c6a520233aa521cb23fae54/jetified-play-services-ads-18.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Android/gradle-6.5/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads/18.3.0/7b2b904a57fae0b77a9d2faf5284e6788f3223ba/play-services-ads-18.3.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads/18.3.0/7b2b904a57fae0b77a9d2faf5284e6788f3223ba/play-services-ads-18.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904330553483",
+    "project_id": "foodnbuyers",
+    "storage_bucket": "foodnbuyers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904330553483:android:233c55d2c53f180a2d4c8e",
+        "android_client_info": {
+          "package_name": "com.kwesiwelbred.woocommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904330553483-7mjcqid1he6hfimupdbq1fle5b5ekhu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTepNy6nJXj_yddCKlPNXcYLsMKoq2-ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904330553483-7mjcqid1he6hfimupdbq1fle5b5ekhu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
